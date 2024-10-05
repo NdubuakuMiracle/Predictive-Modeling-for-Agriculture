@@ -4,7 +4,7 @@
 
 In modern agriculture, selecting the right crop to plant is crucial for maximizing yield and ensuring sustainability. Soil condition plays a vital role in determining the optimal crop for a given field. However, measuring essential soil metrics such as nitrogen, phosphorus, potassium levels, and pH can be both expensive and time-consuming. As a result, farmers often face challenges in prioritizing which metrics to assess based on their budget constraints.  
 
-This project aims to leverage machine learning to assist farmers in selecting the best crop for their fields based on soil measurements. By analyzing these metrics, we can predict the most suitable crop to plant, ultimately helping farmers optimize their yield.  
+This project aims to leverage machine learning to assist farmers in selecting the best crop for their fields based on soil measurements. By analyzing these metrics, I predicted the most suitable crop to plant, ultimately helping the farmers optimize their yield.  
 
 ## Dataset Description  
 
