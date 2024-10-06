@@ -1,4 +1,4 @@
-# Sowing Success: How Machine Learning Helps Farmers Select the Best Crops  
+# Sowing Success: Using Machine Learning to Help Farmers Select the Best Crops
 
 ## Project Overview  
 
